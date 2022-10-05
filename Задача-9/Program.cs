@@ -16,3 +16,5 @@ y = a % 10;
 Console.WriteLine("Вторая цифра " +x);
 string MyString = "zxy";
 Console.WriteLine(MyString.Remove(1,1));
+
+// Здесь не поняла как удалить вторую цифру. Подскажите пожалуйста
